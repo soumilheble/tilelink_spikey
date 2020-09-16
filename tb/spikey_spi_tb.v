@@ -10,8 +10,7 @@ module tb;
     wire [3:0] fclk_div_pp;
 
     spikey_spi DUT (	.FCLK(FCLK),
-                    	.RST(RST),
-                    	.rst_div(rst_div),
+                    	.RST(RST|rst_div),
                     	.fclk_div(fclk_div),
                     	.fclk_div_np(fclk_div_np),
                     	.fclk_div_pp(fclk_div_pp));

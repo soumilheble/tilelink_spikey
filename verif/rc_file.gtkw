@@ -1,0 +1,54 @@
+[*]
+[*] GTKWave Analyzer v3.3.106 (w)1999-2020 BSI
+[*] Wed Sep 16 06:33:26 2020
+[*]
+[dumpfile] "/home/soumilheble/Projects/tilelink_spikey/verif/spikey_spi_tb.vcd"
+[dumpfile_mtime] "Wed Sep 16 06:32:57 2020"
+[dumpfile_size] 1165
+[savefile] "/home/soumilheble/Projects/tilelink_spikey/verif/rc_file.gtkw"
+[timestart] 136
+[size] 1272 1363
+[pos] 1283 -1
+*-8.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb.
+[sst_width] 226
+[signals_width] 249
+[sst_expanded] 1
+[sst_vpaned_height] 405
+@200
+-FCLK/2
+@28
+tb.DUT.RST[0]
+tb.DUT.FCLK[0]
+(3)tb.DUT.fclk_div[3:0]
+(3)tb.DUT.fclk_div_np[3:0]
+(3)tb.DUT.fclk_div_pp[3:0]
+@200
+-FCLK/4
+@28
+tb.DUT.RST[0]
+tb.DUT.FCLK[0]
+(3)tb.DUT.fclk_div[3:0]
+(2)tb.DUT.fclk_div[3:0]
+(2)tb.DUT.fclk_div_np[3:0]
+(2)tb.DUT.fclk_div_pp[3:0]
+@200
+-FCLK/8
+@28
+tb.DUT.RST[0]
+tb.DUT.FCLK[0]
+(2)tb.DUT.fclk_div[3:0]
+(1)tb.DUT.fclk_div[3:0]
+(1)tb.DUT.fclk_div_np[3:0]
+(1)tb.DUT.fclk_div_pp[3:0]
+@200
+-FCLK/16
+@28
+tb.DUT.RST[0]
+tb.DUT.FCLK[0]
+(1)tb.DUT.fclk_div[3:0]
+(0)tb.DUT.fclk_div[3:0]
+(0)tb.DUT.fclk_div_np[3:0]
+(0)tb.DUT.fclk_div_pp[3:0]
+[pattern_trace] 1
+[pattern_trace] 0
